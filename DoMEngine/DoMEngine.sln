@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoMEngine", "DoMEngine\DoMEngine.vcxproj", "{2FF1CFE3-DF4D-4B8A-918E-0E3A40E80DF8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SandBox", "SandBox\SandBox.vcxproj", "{797AC7CE-DBD8-4B25-B21E-5A717A4F7302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF1CFE3-DF4D-4B8A-918E-0E3A40E80DF8}.Debug|x64.ActiveCfg = Debug|x64
+		{2FF1CFE3-DF4D-4B8A-918E-0E3A40E80DF8}.Debug|x64.Build.0 = Debug|x64
+		{2FF1CFE3-DF4D-4B8A-918E-0E3A40E80DF8}.Release|x64.ActiveCfg = Release|x64
+		{2FF1CFE3-DF4D-4B8A-918E-0E3A40E80DF8}.Release|x64.Build.0 = Release|x64
+		{797AC7CE-DBD8-4B25-B21E-5A717A4F7302}.Debug|x64.ActiveCfg = Debug|x64
+		{797AC7CE-DBD8-4B25-B21E-5A717A4F7302}.Debug|x64.Build.0 = Debug|x64
+		{797AC7CE-DBD8-4B25-B21E-5A717A4F7302}.Release|x64.ActiveCfg = Release|x64
+		{797AC7CE-DBD8-4B25-B21E-5A717A4F7302}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {309DD7A4-B893-4EA9-A260-4F518B0CCA7E}
+	EndGlobalSection
+EndGlobal
