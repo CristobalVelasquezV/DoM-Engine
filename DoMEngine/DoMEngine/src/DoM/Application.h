@@ -7,7 +7,8 @@ namespace DoM{
 		Application();
 		virtual ~Application();
 		void Run();
+		
 	};
-
+	Application* CreateApplication();
 }
 
