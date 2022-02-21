@@ -1,0 +1,12 @@
+[submodule "DoMEngine/DoMEngine/vendor/spdlog"]
+	path = DoMEngine/DoMEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "DoM/vendor/GLFW"]
+	path = DoM/vendor/GLFW
+	url = http://github.com/TheCherno/glfw
+[submodule "DoMEngine/DoM/vendor/GLFW"]
+	path = DoMEngine/DoM/vendor/GLFW
+	url = http://github.com/TheCherno/glfw
+[submodule "DoMEngine/DoMEngine/DoM/vendor/GLFW"]
+	path = DoMEngine/DoMEngine/DoM/vendor/GLFW
+	url = http://github.com/TheCherno/glfw
