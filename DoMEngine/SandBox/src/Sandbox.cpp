@@ -1,10 +1,12 @@
 #include <DoM.h>
-
-
-class Sandbox:public DoM::Application {
+#include <DoM/EntryPoint.h>
+#include "ExampleLayer.h"
+class Sandbox :public DoM::Application {
 
 public:
-	Sandbox(){}
+	Sandbox() {
+		 PushLayer(new ExampleLayer());
+	}
 
 	~Sandbox()
 	{
@@ -13,6 +15,6 @@ public:
 };
 
 
-DoM::Application* CreateApplication(){
+DoM::Application* DoM::CreateApplication() {
 	return new Sandbox();
 }

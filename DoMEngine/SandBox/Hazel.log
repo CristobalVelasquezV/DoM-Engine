@@ -1,0 +1,16 @@
+[06:29:12] [warning] DOM: Initialize log
+[06:29:12] [info] APP: Client log
+[06:29:12] [info] DOM: Creating Windows DoM Engine (1600,900)
+[06:29:13] [info] DOM: Vendor: NVIDIA Corporation
+[06:29:13] [info] DOM: Renderer: NVIDIA GeForce RTX 3070/PCIe/SSE2
+[06:29:13] [info] DOM: Version: 4.6.0 NVIDIA 511.79
+[06:29:13] [info] DOM: CREATING VERTEX BUFFER 8
+[06:29:13] [info] DOM: CREATING INDEX BUFFER 6
+[06:29:13] [info] DOM: Awake Render component
+[06:29:13] [info] DOM: CREATING VERTEX BUFFER 8
+[06:29:13] [info] DOM: CREATING INDEX BUFFER 6
+[06:29:13] [info] DOM: Awake Render component
+[06:29:14] [info] DOM: grabcollectable!. 1
+[06:29:17] [info] DOM: grabcollectable!. 2
+[06:29:17] [info] DOM: you win.
+[06:29:20] [info] DOM: close window
